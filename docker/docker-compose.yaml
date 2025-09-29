@@ -5,7 +5,7 @@ services:
 #    build:
 #      context: ..
 #      dockerfile: docker/Dockerfile
-    image: ghcr.io/qin2dim/epic-awesome-gamer:latest
+    image: github.com/scutellraia/epic-awesome-gamer
     restart: "no"
     container_name: epic-awesome-gamer
     env_file:
